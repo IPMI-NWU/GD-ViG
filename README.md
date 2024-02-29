@@ -1,4 +1,4 @@
-# Gaze-assisted Vision GNN for Medical Image Analysis: A Novel Method to Overcome Shortcut Learning
+# Gaze-directed Graph Construction Vision GNN for Mitigating Shortcut Learning
 This project contains the model weights trained according to our algorithm and inference code.
 
 # Model Weights
