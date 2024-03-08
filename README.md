@@ -1,4 +1,4 @@
-# Gaze-directed Graph Construction Vision GNN for Mitigating Shortcut Learning
+# Gaze-directed Vision GNN for Mitigating Shortcut Learning in Medical Image
 This project contains the model weights trained according to our algorithm and inference code.
 
 # Model Weights
