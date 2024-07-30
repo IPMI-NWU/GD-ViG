@@ -1,5 +1,6 @@
 # Gaze-directed Vision GNN for Mitigating Shortcut Learning in Medical Image
 This project contains the model weights trained according to our algorithm and inference code.
+
 Paper link: https://arxiv.org/abs/2406.14050
 # Model Weights
 The download links and extraction codes for our model weights are as follows：
