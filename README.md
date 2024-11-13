@@ -1,7 +1,7 @@
 # [MICCAI2024] Gaze-directed Vision GNN for Mitigating Shortcut Learning in Medical Image
 This project contains the model weights trained according to our algorithm and inference code.
 
-Paper link: https://arxiv.org/abs/2406.14050
+Paper link: [https://arxiv.org/abs/2406.14050](https://doi.org/10.1007/978-3-031-72378-0_48)
 # Model Weights
 The download links and extraction codes for our model weights are as follows：
 https://pan.baidu.com/s/1S_pP58kKNSz3F2B3pvLX_w 
