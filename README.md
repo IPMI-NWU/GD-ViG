@@ -13,9 +13,10 @@ https://drive.google.com/drive/folders/1mIUxiqGHdDmnXm2xDH5_8feNEW9LZi6s?usp=sha
 # Dataset
 1. The SIIM-ACR dataset can be downloaded from  https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/data .
 2. The gaze data for SIIM-ACR can be downloaded at https://github.com/HazyResearch/observational .
-3. The division of SIIM-ACR we based on https://github.com/MoMarky/Eye-gaze-Guided-Vision-Transformer?tab=readme-ov-file
+3. The division of SIIM-ACR we based on https://github.com/MoMarky/Eye-gaze-Guided-Vision-Transformer?tab=readme-ov-file .
 4. The EGR-CXR dataset can be downloaded from https://physionet.org/content/egd-cxr/1.0.0/ .
 
+The collated and processed SIIM-ACR dataset can be accessed via https://drive.google.com/file/d/1qM4LpnnBQWLr_7xlXGrUvJdaMoOjKvUS/view?usp=drive_link .
 ```
 Data/<br>
      ├──MIMIC_Gaze/ 
@@ -27,7 +28,7 @@ Data/<br>
           ├── train/ 
                ├── gaze/ 
                     ├── xxx.png  
-               ├── img/ <br>
+               ├── img/
                     ├── xxx.png  
           ├── mimic_part.csv  
 
@@ -40,7 +41,7 @@ Data/<br>
           ├── train/ 
                ├── gaze/  
                     ├── xxx.png  
-               ├── img/ <br>
+               ├── img/
                     ├── xxx.png 
           ├── siim_pneumothorax.csv 
           ├── test_list.csv 
